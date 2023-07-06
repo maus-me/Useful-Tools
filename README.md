@@ -3,3 +3,4 @@ List of useful tools that don't warrant a Bookmark, but used enough times to war
 
 
 ## Desktop Tools
+Crystal Disk Info - https://crystalmark.info/en/software/crystaldiskinfo/
