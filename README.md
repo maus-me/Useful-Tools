@@ -6,3 +6,4 @@ Mostly to avoid having to search for these "obscure" tools (since Google lost th
 
 ## Desktop Tools
 Crystal Disk Info - https://crystalmark.info/en/software/crystaldiskinfo/
+Crystal Disk Mark - https://crystalmark.info/en/
