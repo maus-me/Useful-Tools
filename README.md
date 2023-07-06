@@ -1,5 +1,5 @@
 # Useful-Tools
-List of useful tools that don't warrant a Bookmark, but used enough times to warrant saving them "somewhere".
+List of useful tools that don't warrant a Bookmark, but used enough times to warrant saving them "somewhere".  Mostly to avoid having to search for these "obscure" tools when I need them or having to rely on shading download sites.
 
 
 ## Desktop Tools
