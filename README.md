@@ -11,5 +11,7 @@ Crystal Disk Info - https://crystalmark.info/en/software/crystaldiskinfo/
 
 Crystal Disk Mark - Test HDD/SSD Writes & Reads speeds. https://crystalmark.info/en/
 
+Rufus - The Reliable USB Formatting Utility/ https://github.com/pbatard/rufus
+
 
 ##### https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
